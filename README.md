@@ -32,9 +32,6 @@ Initially created by [Mayank](https://twitter.com/dermayank) on [Twitter](https:
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#Illustrations">Illustrations</a></li>
@@ -73,13 +70,13 @@ Initially created by [Mayank](https://twitter.com/dermayank) on [Twitter](https:
   4. Kite (kite.com)
   5. DevHints (devhints.io)
   6. iHateRegex (ihateregex.io)
-  7. DevDocs (https://emilkowalski.github.io/css-effects-snippets/)
+  7. DevDocs (https://devdocs.io/css/css_animations)
 
 ### CSS
 
   1. Animista (animista.net)
   2. Pattern.css (bansal.io/pattern-css)
-  3. CSSeffectsSnippets (emilkowalski.github.io/css-effects-sn…)
+  3. CSSeffectsSnippets (https://emilkowalski.github.io/css-effects-snippets/)
   4. 98.css (jdan.github.io/98.css)
 
 ### Tailwind
