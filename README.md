@@ -140,7 +140,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/ranahaani) - ranahaani@gmail.com
+Your Name - [@ranahaani](https://twitter.com/ranahaani) - ranahaani@gmail.com
 
 Project Link: [https://github.com/ranahaani/Awesome-Web-Development-Resources/](https://github.com/ranahaani/Awesome-Web-Development-Resources/)
 
