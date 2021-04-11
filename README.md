@@ -7,29 +7,24 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/ranahaani/Awesome-Web-Development-Resources">
-    <img src="screenshot.png" alt="Logo" >
-  </a>
+<!-- ABOUT THE PROJECT -->
+## Awesome Web Development Resources
 
-  <h3 align="center">Best-README-Template</h3>
+[![Awesome Web Development Resources][product-screenshot]](https://github.com/ranahaani/Awesome-Web-Development-Resources)
+If you are looking to learn web development online, there are more than enough resources out there to teach you everything you need to know. In fact, many (if not most) of the web developers in the world today have launched successful careers by learning web development online from scratch. 
 
-  <p align="center">
-    High-Quality Free Resources for Web Development
-    <br />
-    <a href="https://github.com/ranahaani/Awesome-Web-Development-Resources"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ranahaani/Awesome-Web-Development-Resources">View Demo</a>
-    ·
-    <a href="https://github.com/ranahaani/Awesome-Web-Development-Resources/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ranahaani/Awesome-Web-Development-Resources/issues">Request Feature</a>
-  </p>
-</p>
 
+Resources are added frequently! ⚡
+
+Enjoy!
+
+If you like this repo, be sure to star 🌟 it.
+
+--- 
+
+Initially created by [Mayank](https://twitter.com/dermayank) on [Twitter](https://twitter.com/dermayank/status/1379288164141953026).
+
+---
 
 
 <!-- TABLE OF CONTENTS -->
@@ -56,27 +51,6 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## Awesome Web Development Resources
-
-[![Awesome Web Development Resources][product-screenshot]](https://github.com/ranahaani/Awesome-Web-Development-Resources)
-If you are looking to learn web development online, there are more than enough resources out there to teach you everything you need to know. In fact, many (if not most) of the web developers in the world today have launched successful careers by learning web development online from scratch. 
-
-
-Resources are added frequently! ⚡
-
-Enjoy!
-
-If you like this repo, be sure to star 🌟 it.
-
---- 
-
-Initially created by [Mayank](https://twitter.com/dermayank) on [Twitter](https://twitter.com/dermayank/status/1379288164141953026).
-
----
 
 
 <!-- GETTING STARTED -->
