@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ranahaani/Awesome-Web-Development-Resources">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="screenshot.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -187,4 +187,4 @@ Project Link: [https://github.com/ranahaani/Awesome-Web-Development-Resources/](
 [license-url]: https://github.com/ranahaani/Awesome-Web-Development-Resources/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ranahaani
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: logo.png
