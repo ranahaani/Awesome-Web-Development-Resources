@@ -1,11 +1,10 @@
 
-[![Contributors][contributors-shield]][https://github.com/ranahaani/Awesome-Web-Development-Resources]
-[![Forks][forks-shield]][https://github.com/ranahaani/Awesome-Web-Development-Resources/members]
-[![Stargazers][stars-shield]][https://github.com/ranahaani/Awesome-Web-Development-Resources/stargazers]
-[![Issues][issues-shield]][https://github.com/ranahaani/Awesome-Web-Development-Resources/issues]
-[![MIT License][license-shield]][https://github.com/ranahaani/Awesome-Web-Development-Resources]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ranahaani/]
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
