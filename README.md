@@ -71,6 +71,7 @@ Initially created by [Mayank](https://twitter.com/dermayank) on [Twitter](https:
   5. DevHints (devhints.io)
   6. iHateRegex (ihateregex.io)
   7. DevDocs (https://devdocs.io/css/css_animations)
+  8. Agent QA (https://github.com/vostride/agent-qa) - Natural-language web application testing with CLI and MCP interfaces, execution memory, and adaptation to UI changes. Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years.
 
 ### CSS
 
