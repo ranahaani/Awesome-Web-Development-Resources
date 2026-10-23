@@ -71,6 +71,7 @@ Initially created by [Mayank](https://twitter.com/dermayank) on [Twitter](https:
   5. DevHints (devhints.io)
   6. iHateRegex (ihateregex.io)
   7. DevDocs (https://devdocs.io/css/css_animations)
+  8. [BestJSON JSON Diff](https://bestjson.com/json-diff) — Compare JSON responses and inspect structural changes by path in the browser.
 
 ### CSS
 
